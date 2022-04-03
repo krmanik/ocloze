@@ -1,0 +1,21 @@
+{
+    "short_name": "Ocloze",
+    "name": "Cloze Over lapper In Browser",
+    "icons": [
+      {
+        "src": "images/icon-192.png",
+        "type": "image/icon.png",
+        "sizes": "192x192",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "images/icon-512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "/ocloze/index.html",
+    "background_color": "#000000",
+    "display": "standalone",
+    "theme_color": "#ff0000"
+  }
